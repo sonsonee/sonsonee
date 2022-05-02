@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Studying Java, JavaScript
+Studying Java, Spring, and BackEnd
 
 <!--
 **sonsonee/sonsonee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
